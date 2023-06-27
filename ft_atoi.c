@@ -3,13 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sun-wkim <sun-wkim@student.42.fr>          +#+  +:+       +#+        */
+/*   By: sunwookim <sun-wkim@student.42lausanne.ch> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/06/12 14:08:45 by sun-wkim          #+#    #+#             */
-/*   Updated: 2023/06/16 10:44:31 by sun-wkim         ###   ########.fr       */
+/*   Created: 2023/06/20 23:55:05 by sunwookim         #+#    #+#             */
+/*   Updated: 2023/06/27 14:29:55 by sun-wkim         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "push_swap.h"
 
 static int	checkws(const char *str)
 {
